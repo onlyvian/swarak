@@ -1,0 +1,10 @@
+
+seaborn
+scikit-learn
+numpy
+pandas
+matplotlib
+decimal
+statistics
+bs4
+xgboost
